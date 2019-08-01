@@ -10,13 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/grayfmrcl/expressjs-auth.git"
   },
-  "author": "",
+  "author": "Grayfield Moningkey",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/grayfmrcl/expressjs-auth/issues"
   },
   "homepage": "https://github.com/grayfmrcl/expressjs-auth#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "debug": "~2.6.9",
+    "morgan": "~1.9.1"
   }
 }
